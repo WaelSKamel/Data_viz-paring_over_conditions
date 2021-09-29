@@ -18,7 +18,7 @@ library(ggnewscale)
 
 paired_data = as.data.frame(read.table("paired_data.txt", sep="\t",header=TRUE))
 
-# data consists mersurment of certain feature (X) over two conditions Untreated and Treated for a number of 
+# data consists of mersurments of certain feature (X) over two conditions "Untreated and Treated" for a number of genes
 
 head(paired_data, 10)
 ```
