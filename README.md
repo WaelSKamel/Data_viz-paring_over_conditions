@@ -1,6 +1,7 @@
-# Data_viz-paring_over_conditionspairing over different conditions
-================
+# Data_viz: paring over conditions
+
 Wael Kamel
+
 28/09/2021
 
 ## Visualize the feature-distribution of different genes/proteins (intestity, reads, arbitrary units, etc) over different conditions with different color scales
