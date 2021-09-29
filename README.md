@@ -71,7 +71,7 @@ paired_data.svg= paired_data.svg+
 paired_data.svg
 ```
 
-![](paring_over_conditions_files/figure-markdown_github/unnamed-chunk-1-1.png)
+![](unnamed-chunk-1-1.png)
 
 ``` r
 #we want to have two different color scales, one for each conditions. first we will add one, using geom_point as a filler and standard scale_color_gradientn
@@ -84,7 +84,7 @@ paired_data.svg= paired_data.svg+
 paired_data.svg
 ```
 
-![](paring_over_conditions_files/figure-markdown_github/unnamed-chunk-1-2.png)
+![](unnamed-chunk-1-2.png)
 
 ``` r
 # to add the second color scale, this is the tricky part and we use  new_scale_color() from (ggnewscale),  which made it very easy
@@ -97,4 +97,4 @@ paired_data.svg= paired_data.svg+
 paired_data.svg
 ```
 
-![](paring_over_conditions_files/figure-markdown_github/unnamed-chunk-1-3.png)
+![](unnamed-chunk-1-3.png)
